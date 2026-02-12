@@ -1,0 +1,1 @@
+add_executable(exo2 exo2.cpp)
