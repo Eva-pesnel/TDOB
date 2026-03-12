@@ -1,1 +1,6 @@
-add_executable(exo2 exo2.cpp)
+add_executable(td2Ex1 td2Ex1.cpp)
+add_executable(td2Ex2 td2Ex2.cpp)
+add_executable(td2Ex3 td2Ex3.cpp)
+add_executable(td2Ex4 td2Ex4.cpp)
+add_executable(td2Ex5 td2Ex5.cpp)
+add_executable(td2Ex6 td2Ex6.cpp)
